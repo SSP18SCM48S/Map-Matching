@@ -1,6 +1,7 @@
 """
 Map Matching
 Reference paper: Map-Matching for Low-Sampling-Rate GPS Trajectories
+https://www.microsoft.com/en-us/research/publication/map-matching-for-low-sampling-rate-gps-trajectories/
 """
 import csv
 import numpy as np
